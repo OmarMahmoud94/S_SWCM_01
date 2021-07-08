@@ -1,2 +1,2 @@
-line1 >> edited again in master from github to make conflict
+line1 >> edited again in branch to solve conflict and merge
 line2 >> first edit in feature1
